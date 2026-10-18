@@ -94,9 +94,14 @@ Kérjük, nyiss egy hibajegyet az illetékes helyi csoportnál!
 
 ### Mi a helyzet a felnőtt tartalmakat kínáló domainekkel?
 
-Megértjük, hogy ezek a webhelyek népszerűek, de a viták elkerülése érdekében nem
-szeretnénk felvenni őket a listára. Saját beállításaidhoz szabadon hozzáadhatod
-ezeket.
+Mivel ezek rendkívül népszerűek, nem praktikus kiszűrni őket a listáinkból,
+ha széles körű lefedettséget szeretnénk, ezért általános szabályként
+engedélyezzük őket.
+
+A listák testre szabhatók úgy, hogy megakadályozzák az érzékeny tartalmakhoz
+való hozzáférést, de a célközönségünket alapvetően felelős felnőtteknek
+tekintjük, akik maguk dönthetik el, milyen tartalmakat szeretnének fogyasztani.
+
 
 ### A fogyatékossággal élők internethasználatát akarjátok ellenőrizni?
 
