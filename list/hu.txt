@@ -1,0 +1,91 @@
+! Title: Strict allowlist — example.com and cnn.com only
+! Description: Blocks the root document of every site except the two allowed ones
+! Version: 1.0
+! Expires: 1 day
+!
+! 1. Block every top-level page load
+*$document
+!
+!
+
+!
+! Similarweb 2026
+!
+@@||google.com^$document
+@@||youtube.com^$document
+@@||facebook.com^$document
+@@||telex.hu^$document
+@@||index.hu^$document
+@@||instagram.com^$document
+@@||chatgpt.com^$document
+@@||wikipedia.org^$document
+@@||idokep.hu^$document
+@@||24.hu^$document
+@@||444.hu^$document
+@@||hirkereso.hu^$document
+@@||freemail.hu^$document
+@@||videa.hu^$document
+@@||reddit.com^$document
+@@||origo.hu^$document
+@@||startlap.hu^$document
+@@||google.hu^$document
+@@||hasznaltauto.hu^$document
+@@||e-kreta.hu^$document
+@@||blikk.hu^$document
+@@||arukereso.hu^$document
+@@||allegro.hu^$document
+@@||vg.hu^$document
+@@||eredmenyek.com^$document
+@@||nemzetisport.hu^$document
+@@||hvg.hu^$document
+@@||portfolio.hu^$document
+@@||asurascans.com^$document
+@@||nlc.hu^$document
+@@||tiktok.com^$document
+@@||menetrendek.hu^$document
+@@||netflix.com^$document
+@@||ingatlan.com^$document
+@@||kapu.hu^$document
+@@||promotions.hu^$document
+@@||twitch.tv^$document
+@@||femina.hu^$document
+@@||jofogas.hu^$document
+@@||infostart.hu^$document
+@@||kiskegyed.hu^$document
+@@||szerencsejatek.hu^$document
+@@||simplepay.hu^$document
+@@||penzcentrum.hu^$document
+@@||magyarnemzet.hu^$document
+@@||x.com^$document
+@@||kiszamolo.hu^$document
+
+!
+! .hu banks
+!
+@@||otpbank.hu
+@@||otp.hu
+@@||erstebank.hu
+@@||erste.hu
+@@||magnetbank.hu
+@@||raiffeisen.hu
+@@||kh.hu
+
+
+!
+! .hu Insurance
+!
+@@||allianz.hu
+@@||alfa.hu
+@@||generali.hu
+@@||uniqua.hu
+@@||netrisk.hu
+@@||biztositas.hu
+
+
+!
+! .hu FinTech
+!
+@@||revolut.com
+@@||barion.hu
+
+
