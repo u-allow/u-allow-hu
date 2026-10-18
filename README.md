@@ -1,4 +1,4 @@
-# uAllow – Engedélyezési listák a kiszolgáltatottak védelmében
+# uAllow 🇭🇺 – Engedélyezési listák a kiszolgáltatottak védelmében
 
 Ez a uAllow projekt magyar tárolója. Célja, hogy uBlock-**engedélyezési
 listákat** biztosítson kiszolgáltatott emberek számára, biztonságosabbá téve a
