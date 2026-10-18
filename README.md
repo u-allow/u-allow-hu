@@ -4,7 +4,7 @@ Ez a uAllow projekt magyar tárolója. Célja, hogy uBlock-**engedélyezési
 listákat** biztosítson kiszolgáltatott emberek számára, biztonságosabbá téve a
 böngészést és segítve őket a csalások elkerülésében.
 
-**A listát [itt találod](list/hu.txt)!**
+**A magyar listát [itt találod](list/hu.txt)!**
 
 Bár folyamatosan arra tanítják az embereket, hogy legyenek óvatosak a *„gyanús
 linkek”* megnyitásakor, ez a tanács alapvetően figyelmen kívül hagyja, hogy:
@@ -74,23 +74,17 @@ Amit kínálunk:
 * A helyi csoportok megtalálhatóságának elősegítése (lásd alább)
 
 
-## Helyi csoportok
-
-* [Magyarország](https://github.com/u-follow/u-follow-hu)
-* Ide kerülhet a csoportod!
-
-
 ## GYIK
 
 ### Lehetne ezt nemzetközibbé tenni?
 
 Természetesen! Mivel egy globális, biztonságos domaineket tartalmazó lista
-karbantartása nehéz feladat, a munkát helyi csoportok között osztjuk szét,
+karbantartása nehéz feladat, a munkát [helyi csoportok](https://github.com/u-allow/u-allow#local-groups) között osztjuk szét,
 amelyeknek saját listáikat kell gondozniuk.
 
 ### Hiányzik egy fontos domain a listáról!
 
-Kérjük, nyiss egy hibajegyet az illetékes helyi csoportnál!
+Kérjük, nyiss egy hibajegyet az illetékes [helyi csoportnál](https://github.com/u-allow/u-allow#local-groups)!
 
 ### Mi a helyzet a felnőtt tartalmakat kínáló domainekkel?
 
