@@ -71,7 +71,7 @@ Amit kínálunk:
 * Általános célú [sablon](template.txt) engedélyezési listák készítéséhez
 * Általános dokumentáció a beállításról és a rendeltetésről (éppen ezt
   olvasod)
-* A helyi csoportok megtalálhatóságának elősegítése (lásd alább)
+* A [helyi csoportok](https://github.com/u-allow/u-allow#local-groups) megtalálhatóságának elősegítése
 
 
 ## GYIK
