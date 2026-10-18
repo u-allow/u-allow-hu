@@ -1,10 +1,12 @@
-# uAllow – Engedélyezési listák a kiszolgáltatottak védelmében
+# uAllow 🇭🇺 – Engedélyezési listák a kiszolgáltatottak védelmében
 
 Ez a uAllow projekt magyar tárolója. Célja, hogy uBlock-**engedélyezési
 listákat** biztosítson kiszolgáltatott emberek számára, biztonságosabbá téve a
 böngészést és segítve őket a csalások elkerülésében.
 
-**A listát [itt találod](list/hu.txt)!**
+**A magyar listát [itt találod](list/hu.txt)!** 
+
+**🏗️ Fejlesztés alatt! Bártan javasolj engedélyezendő oldalakat az [Issue Tracker](https://github.com/u-allow/u-allow-hu/issues) használatával!🏗️**
 
 Bár folyamatosan arra tanítják az embereket, hogy legyenek óvatosak a *„gyanús
 linkek”* megnyitásakor, ez a tanács alapvetően figyelmen kívül hagyja, hogy:
@@ -13,10 +15,10 @@ linkek”* megnyitásakor, ez a tanács alapvetően figyelmen kívül hagyja, ho
 * Még nehezebb tudni, mely domainek megbízhatók
 * Nem mindig látható a teljes URL
 
-    Mivel azok, akik nem tudják leküzdeni ezeket az akadályokat, általában csak
-    kevés webhelyet látogatnak, ésszerű technikai eszközt biztosítani számukra,
-    amellyel a böngészést ezekre a megbízható webhelyekre korlátozhatják. Így
-    nem tévednek véletlenül veszélyes helyekre, például adathalász oldalakra.
+Mivel azok, akik nem tudják leküzdeni ezeket az akadályokat, általában csak
+kevés webhelyet látogatnak, ésszerű technikai eszközt biztosítani számukra,
+amellyel a böngészést ezekre a megbízható webhelyekre korlátozhatják. Így
+nem tévednek véletlenül veszélyes helyekre, például adathalász oldalakra.
 
 
 ## Segíts társaidnak
@@ -71,13 +73,7 @@ Amit kínálunk:
 * Általános célú [sablon](template.txt) engedélyezési listák készítéséhez
 * Általános dokumentáció a beállításról és a rendeltetésről (éppen ezt
   olvasod)
-* A helyi csoportok megtalálhatóságának elősegítése (lásd alább)
-
-
-## Helyi csoportok
-
-* [Magyarország](https://github.com/u-follow/u-follow-hu)
-* Ide kerülhet a csoportod!
+* A [helyi csoportok](https://github.com/u-allow/u-allow#local-groups) megtalálhatóságának elősegítése
 
 
 ## GYIK
@@ -85,12 +81,12 @@ Amit kínálunk:
 ### Lehetne ezt nemzetközibbé tenni?
 
 Természetesen! Mivel egy globális, biztonságos domaineket tartalmazó lista
-karbantartása nehéz feladat, a munkát helyi csoportok között osztjuk szét,
+karbantartása nehéz feladat, a munkát [helyi csoportok](https://github.com/u-allow/u-allow#local-groups) között osztjuk szét,
 amelyeknek saját listáikat kell gondozniuk.
 
 ### Hiányzik egy fontos domain a listáról!
 
-Kérjük, nyiss egy hibajegyet az illetékes helyi csoportnál!
+Kérjük, nyiss egy hibajegyet az illetékes [helyi csoportnál](https://github.com/u-allow/u-allow#local-groups)!
 
 ### Mi a helyzet a felnőtt tartalmakat kínáló domainekkel?
 
