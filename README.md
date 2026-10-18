@@ -4,7 +4,9 @@ Ez a uAllow projekt magyar tárolója. Célja, hogy uBlock-**engedélyezési
 listákat** biztosítson kiszolgáltatott emberek számára, biztonságosabbá téve a
 böngészést és segítve őket a csalások elkerülésében.
 
-**A magyar listát [itt találod](list/hu.txt)!**
+**A magyar listát [itt találod](list/hu.txt)!** 
+
+**🏗️ Fejlesztés alatt! Bártan javasolj engedélyezendő oldalakat az [Issue Tracker](https://github.com/u-allow/u-allow-hu/issues) használatával!🏗️**
 
 Bár folyamatosan arra tanítják az embereket, hogy legyenek óvatosak a *„gyanús
 linkek”* megnyitásakor, ez a tanács alapvetően figyelmen kívül hagyja, hogy:
