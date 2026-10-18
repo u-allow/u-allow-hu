@@ -13,10 +13,10 @@ linkek”* megnyitásakor, ez a tanács alapvetően figyelmen kívül hagyja, ho
 * Még nehezebb tudni, mely domainek megbízhatók
 * Nem mindig látható a teljes URL
 
-    Mivel azok, akik nem tudják leküzdeni ezeket az akadályokat, általában csak
-    kevés webhelyet látogatnak, ésszerű technikai eszközt biztosítani számukra,
-    amellyel a böngészést ezekre a megbízható webhelyekre korlátozhatják. Így
-    nem tévednek véletlenül veszélyes helyekre, például adathalász oldalakra.
+Mivel azok, akik nem tudják leküzdeni ezeket az akadályokat, általában csak
+kevés webhelyet látogatnak, ésszerű technikai eszközt biztosítani számukra,
+amellyel a böngészést ezekre a megbízható webhelyekre korlátozhatják. Így
+nem tévednek véletlenül veszélyes helyekre, például adathalász oldalakra.
 
 
 ## Segíts társaidnak
